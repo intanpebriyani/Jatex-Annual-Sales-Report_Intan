@@ -1,1 +1,1 @@
-# my-first-data-analyst-project
+Analisis data annual sales report PT Jatex di tahun 2023 dengan menggunakan Microsoft Excel. Terlampir juga Excel Reports yang dibuat setelah melakukan Data Cleaning, Data Processing, Data Analyst dan Active Dashboard.
